@@ -1,7 +1,11 @@
 const trainednet =  require('./trained-net');
 
-console.log(trainednet('driver'));
-console.log(trainednet('program'));
+const data = require('./dataset/data.js');
+
+
+for(var i =0; i < 10; i++)
+console.log(data[i].v2
+    );
 
 
 
