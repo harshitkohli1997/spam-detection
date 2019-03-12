@@ -9,6 +9,7 @@
   "author": "hk",
   "license": "ISC",
   "dependencies": {
+    "bayes-classifier": "0.0.5",
     "brain.js": "^1.6.1"
   }
 }
