@@ -1,7 +1,7 @@
 var BayesClassifier = require('bayes-classifier')
 var classifier = new BayesClassifier()
  
-const data = require('./dataset/csvjson');
+const data = require('./dataset/dataset');
 const fs = require('fs');
 
 console.log(data.length)
