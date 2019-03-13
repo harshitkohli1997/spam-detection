@@ -1,11 +1,5 @@
-const trainednet =  require('./trained-net');
+const spam = require('./check');
 
-const data = require('./dataset/data.js');
-
-
-for(var i =0; i < 10; i++)
-console.log(data[i].v2
-    );
-
+console.log(spam.detect(`Want 2 get laid tonight? Want real Dogging locations sent direct 2 ur mob? Join the UK's largest Dogging Network bt Txting GRAVEL to 69888! Nt. ec2a. 31p.msg@150p`))
 
 
