@@ -1,5 +1,5 @@
 {
-  "name": "brain",
+  "name": "spam-detect",
   "version": "1.0.0",
   "description": "",
   "main": "spam-detect.js",
