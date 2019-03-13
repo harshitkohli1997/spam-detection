@@ -1,5 +1,5 @@
 {
-  "name": "spam-detect",
+  "name": "spam-checker",
   "version": "1.0.0",
   "description": "",
   "main": "spam-detect.js",
