@@ -16,3 +16,7 @@ const ans = spamcheck.detect('hello how are you') // invoke detect method
 
 console.log(ans); // ham
 
+# License
+
+ISC
+
