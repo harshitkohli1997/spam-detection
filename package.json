@@ -1,10 +1,15 @@
 {
-  "name": "spam-checker",
-  "version": "1.0.0",
-  "description": "",
+  "name": "spam-detection",
+  "version": "0.0.5",
+  "description": "Small package to check spam text and messages",
   "main": "spam-detect.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["spam-detection", "spam check", "spam detection", "spam","text-spam", "machine learning", "bayes-classifier","nlp","NLP","detect spam","check", "ham"],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/harshitkohli1997/spam-detection"
   },
   "author": "hk",
   "license": "ISC",
