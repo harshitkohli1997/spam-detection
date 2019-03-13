@@ -1,6 +1,6 @@
 const BayesClassifier = require('bayes-classifier');
 
-const data = require('./dataset/data');
+const data = require('./dataset/csvjson');
 
 var classifier = new BayesClassifier()
 var storedClassifier = require('./store.json');
