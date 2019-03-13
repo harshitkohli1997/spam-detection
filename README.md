@@ -10,7 +10,7 @@ bower intall spam-detection
 
 # Usage
 
-const spamcheck = require('spam-checker');
+const spamcheck = require('spam-detection');
 
 const ans = spamcheck.detect('hello how are you') // invoke detect method
 
