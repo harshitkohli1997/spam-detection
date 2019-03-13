@@ -1,6 +1,6 @@
 {
   "name": "spam-detection",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "Small package to check spam text and messages",
   "main": "spam-detect.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "type" : "git",
     "url" : "https://github.com/harshitkohli1997/spam-detection"
   },
+  "homepage": "https://github.com/harshitkohli1997/spam-detection/blob/master/README.md",
   "author": "hk",
   "license": "ISC",
   "dependencies": {
