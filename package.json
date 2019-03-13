@@ -2,14 +2,13 @@
   "name": "brain",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "spam-detect.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "hk",
   "license": "ISC",
   "dependencies": {
-    "bayes-classifier": "0.0.5",
-    "brain.js": "^1.6.1"
+    "bayes-classifier": "0.0.5"
   }
 }
