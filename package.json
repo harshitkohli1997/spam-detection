@@ -1,6 +1,6 @@
 {
   "name": "spam-detection",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Small package to check spam text and messages",
   "main": "spam-detect.js",
   "scripts": {
